@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T07:30:49.420Z" agent="5.0 (Linux; Android 11; SM-T970 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.85 Safari/537.36;KAKAOTALK 2309520" etag="lC4bfct7NhtpdybI1dxP" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T02:02:20.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="Pb8Rjr0uHm2xnhM7zzaG" version="15.5.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="820" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,18 +17,18 @@
           <mxGeometry x="-17" y="66" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="앱" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="323" y="228.5" width="120" height="300" as="geometry" />
+          <mxGeometry x="305" y="230" width="112" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FugrrX4glSrGfoG3N5QN-19" value="푸시알림 설정" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="60" y="61.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="60" y="66" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FugrrX4glSrGfoG3N5QN-34" value="푸시알림 수신" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="62" y="130.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FugrrX4glSrGfoG3N5QN-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=default;gradientColor=none;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="53" y="166" width="14" height="18.5" as="geometry" />
+          <mxGeometry x="49" y="165" width="14" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="FugrrX4glSrGfoG3N5QN-2" value="서버" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FugrrX4glSrGfoG3N5QN-2" value="원시그널" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="621" y="241" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="FugrrX4glSrGfoG3N5QN-4" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="FugrrX4glSrGfoG3N5QN-22" edge="1">
@@ -37,7 +37,7 @@
             <mxPoint x="665" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FugrrX4glSrGfoG3N5QN-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="FugrrX4glSrGfoG3N5QN-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" source="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="381" y="293" as="sourcePoint" />
             <mxPoint x="508" y="293" as="targetPoint" />
@@ -67,7 +67,7 @@
         <mxCell id="FugrrX4glSrGfoG3N5QN-33" value="푸시알림 전송" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="601" y="368.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BzX8UMseFJUb4_9sW3gn-2" value="수신여부 저장" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="BzX8UMseFJUb4_9sW3gn-2" value="설정자 토큰 저장" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="601" y="306" width="60" height="18" as="geometry" />
         </mxCell>
       </root>
