@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T06:03:15.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="mJNIlkV6H9Zu71RONv4M" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T17:40:14.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="ebhFWmOyGBhTZv52N-xG" version="15.6.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-1" value="앱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-1" value="웹사이트&lt;br&gt;접속기" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="226" y="194" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-2" value="파이어 베이스" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,8 +28,8 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-8" value="&lt;font style=&quot;font-size: 9px&quot;&gt;버튼을 클릭한다.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" parent="1" vertex="1">
-          <mxGeometry x="260" y="250" width="84" height="20" as="geometry" />
+        <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;url을 요쳥&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="254" y="247" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y4GT3gBi2JhhcLNgpZ-k-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="445" y="276" width="12" height="20" as="geometry" />
